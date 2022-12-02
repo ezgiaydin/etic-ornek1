@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule ^anasayfa/? index.php [NC,L]
+RewriteRule ^mutfak/? mutfak.php [NC,L]
